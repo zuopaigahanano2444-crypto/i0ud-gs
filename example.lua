@@ -1,1 +1,1 @@
-example.lua
+print("Script Loaded")
